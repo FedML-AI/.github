@@ -4,7 +4,7 @@ FEDML® stands for Foundational Ecosystem Design for Machine Learning. FEDML Nex
 
 Highly integrated with FEDML open source library, FEDML Nexus AI provides holistic support of three interconnected AI infrastructure layers: user-friendly MLOps, a well-managed scheduler, and high-performance ML libraries for running any AI jobs across GPU Clouds.
 
-
+![fedml-nexus-ai-overview.png](./fedml-nexus-ai-overview.png)
 
 FEDML Nexus AI: Next-Gen Cloud Services for LLMs & Generative AI \
 https://nexus.fedml.ai
@@ -23,7 +23,7 @@ Join the Community:
 Slack: https://join.slack.com/t/fedml/shared_invite/zt-havwx1ee-a1xfOUrATNfc9DFqU~r34w \
 Discord: https://discord.gg/9xkW8ae6RV
 
-![fedml-nexus-ai-overview.png](fedml-nexus-ai-overview.png)
+
 
 A typical workflow is showing in figure above. When developer wants to run a pre-built job in Studio or Job Store, FEDML®Launch swiftly pairs AI jobs with the most economical GPU resources, auto-provisions, and effortlessly runs the job, eliminating complex environment setup and management. When running the job, FEDML®Launch orchestrates the compute plane in different cluster topologies and configuration so that any complex AI jobs are enabled, regardless model training, deployment, or even federated learning. FEDML®Open Source is unified and scalable machine learning library for running these AI jobs anywhere at any scale. 
 
