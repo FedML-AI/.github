@@ -23,6 +23,7 @@ Join the Community:
 Slack: https://join.slack.com/t/fedml/shared_invite/zt-havwx1ee-a1xfOUrATNfc9DFqU~r34w \
 Discord: https://discord.gg/9xkW8ae6RV
 
+![fedml-nexus-ai-overview.png](fedml-nexus-ai-overview.png)
 
 A typical workflow is showing in figure above. When developer wants to run a pre-built job in Studio or Job Store, FEDML®Launch swiftly pairs AI jobs with the most economical GPU resources, auto-provisions, and effortlessly runs the job, eliminating complex environment setup and management. When running the job, FEDML®Launch orchestrates the compute plane in different cluster topologies and configuration so that any complex AI jobs are enabled, regardless model training, deployment, or even federated learning. FEDML®Open Source is unified and scalable machine learning library for running these AI jobs anywhere at any scale. 
 
